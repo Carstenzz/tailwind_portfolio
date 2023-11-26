@@ -1,3 +1,4 @@
 # tailwind_porfolio
 
-12.32 - otw speedrun tugas
+full tailwind css
+sedang malas js
