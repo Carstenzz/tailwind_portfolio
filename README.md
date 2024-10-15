@@ -1,4 +1,3 @@
 # tailwind_porfolio
 
-full tailwind css
-sedang malas js
+This web is fully built using tailwind and nothing else
